@@ -1,44 +1,34 @@
-# TemplateRepository
-**Template code for other repos**
+# VR-Physics-Integration
 ## Description 
-A repository used as a base, not to write all over again. 
-
-1. Generate a new repo with this one as a template
-2. Add **Description**
-3. Add **Tags**
-4. Add **.gitignore** (Add file-> Create New File -> Type ".gitignore" -> Choose .gitignore -> Commit)
-5. Review **Licence** (Add file-> Create New File -> Type "LICENCE" -> Choose a licence template -> Review and submit)
-6. Change **image result** in /img/result.jpg
-7. Change **image preview** in settings 
-8. Edit this **README**
+A Virtual Reality scenario where a particle physics engine is used to emulate soft/deformable bodies, liquids, clothes and ropes.
 
 ### Topics:
-- Repository 
-- Template
-- Code Automation
+- VR Virtual-Reality 
+- Physics Simulation
 
 ## Result
-![Result](./img/result.jpg)
+![Result](./img/result.gif)
+
+![Unity+NVIDIA](./img/Unity-NVIDIA-part.gif)
 
 ## Requirements & Dependencies
-- Programming Language
-- Libraries
+- Unity 2021.3
+- HTC Vive
 
-## Install 
-*   clone in the route directory
-*   ```./install.sh```
-
-## Run
-```bash
-execution command
-```
+## Install / Run
+*   clone the repository
+*   open with UnityHub
+*   connect your device
+*   run the app
 
 ## Useful Resources & Extra
 - Links
+  - https://developer.nvidia.com/flex
+  - https://github.com/NVIDIAGameWorks/FleX
 - Resources
 
 ## Authors
-* **Igor Lirussi** @ BOUN Boğaziçi University - CoLoRs (Cognitive Learning and Robotics) Lab
+* **Igor Lirussi** @ BOUN Boğaziçi University - BuViar Lab
 
 ## Acknowledgments
 *   All the people that contributed with suggestions and tips.
