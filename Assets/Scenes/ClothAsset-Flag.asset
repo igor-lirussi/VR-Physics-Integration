@@ -127,7 +127,7 @@ MonoBehaviour:
   - {x: -1, y: -2.220446e-17, z: 1, w: 0}
   - {x: -0.80000013, y: -2.220446e-17, z: 1, w: 0}
   - {x: -0.6, y: -2.220446e-17, z: 1, w: 0}
-  - {x: -0.39999998, y: -2.220446e-17, z: 1, w: 0}
+  - {x: -0.39999998, y: -2.220446e-17, z: 1, w: 1}
   - {x: 0, y: -2.220446e-17, z: 1, w: 1}
   - {x: 0.19999999, y: -2.220446e-17, z: 1, w: 1}
   - {x: 0.39999998, y: -2.220446e-17, z: 1, w: 1}
@@ -1347,7 +1347,7 @@ MonoBehaviour:
   m_inflatableVolume: 0
   m_inflatablePressure: 0
   m_inflatableStiffness: 0
-  m_fixedParticles: 6f000000700000007100000072000000
+  m_fixedParticles: 6f0000007000000071000000
   m_rebuildAsset: 0
   m_referenceMesh: {fileID: 10209, guid: 0000000000000000e000000000000000, type: 0}
   m_meshLocalScale: {x: 0.2, y: 0.2, z: 0.2}
