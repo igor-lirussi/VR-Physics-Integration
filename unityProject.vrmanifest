@@ -5,10 +5,10 @@
       "app_key": "application.generated.unity.physicscompleteintegration.exe",
       "launch_type": "url",
       "url": "steam://launch/",
-      "action_manifest_path": "C:\\Users\\HaticeŞuleErkul\\Desktop\\İgor_VR_Project\\Physics-Complete-İntegration\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "action_manifest_path": "C:\\Users\\HaticeŞuleErkul\\Desktop\\İgor_VR_Project\\VR-Physics-Integration\\Assets\\StreamingAssets\\SteamVR\\actions.json",
       "strings": {
         "en_us": {
-          "name": "Physics-Complete-İntegration [Testing]"
+          "name": "VR-Physics-Integration [Testing]"
         }
       }
     }
