@@ -9,6 +9,9 @@ A Virtual Reality scenario where a particle physics engine is used to emulate so
 - Physics Simulation
 
 ## Result
+[![Video](img/thumbnail.png)](https://www.youtube.com/watch?v=8X7tDAt-VAo)
+
+
 ![Result](./img/result.gif)
 
 ![Unity+NVIDIA](./img/Unity-NVIDIA-part.gif)
@@ -26,8 +29,8 @@ A Virtual Reality scenario where a particle physics engine is used to emulate so
 
 ## Useful Resources & Extra
 - Links
-  - https://developer.nvidia.com/flex
-  - https://github.com/NVIDIAGameWorks/FleX
+  - [NVidia Flex](https://developer.nvidia.com/flex)
+  - [GitHub NVidia](https://github.com/NVIDIAGameWorks/FleX)
 
 ## Trouble
 - If the player VR position is not detected, (camera visual does not move) close and open the project again.
