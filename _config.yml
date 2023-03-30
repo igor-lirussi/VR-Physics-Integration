@@ -140,7 +140,7 @@ chulapa-skin:
   skin         :  # Optional predefined skins
   autothemer    :  # Bool: Use autotheming
   vars          :
-    primary     :  "#0e4201"    #default ["#007bff"] - Bootstrap blue          CHANGE HERE THE COLOR  
+    primary     :  "#363636"    #default ["#007bff"] - Bootstrap blue          CHANGE HERE THE COLOR  
 
 # D. Jekyll Defaults and collections: see https://jekyllrb.com/
 
